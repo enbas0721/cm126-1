@@ -1,4 +1,5 @@
 #timeモジュールをインポート
+#test
 import time
 
 #RPi.GPIOモジュールをインポート
